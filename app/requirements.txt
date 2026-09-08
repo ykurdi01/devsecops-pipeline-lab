@@ -1,0 +1,4 @@
+# Absichtlich veraltete Version mit bekannten CVEs (u. a. CVE-2023-32681),
+# damit pip-audit in der Pipeline etwas zu finden hat.
+requests==2.19.1
+flask==3.0.3
